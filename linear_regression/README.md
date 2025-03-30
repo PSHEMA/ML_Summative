@@ -77,3 +77,6 @@ python linear_regression/train_model.py
 ```sh
 python linear_regression/prediction.py
 ```
+
+## App Video Demo
+[Crop Yield Prediction App](https://www.loom.com/share/221762979afc4a00a666b6a1d04781c8?sid=a5c826f0-9118-4743-a961-a1b79baabff2)
